@@ -58,7 +58,7 @@ Vamos conversar?
     align="left"
     alt="NumPy"
     title="NumPy"
-    width="40px"
+    width="60px"
     style="padding-right: 9px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
     />
