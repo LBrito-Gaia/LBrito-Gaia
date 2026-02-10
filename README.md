@@ -68,7 +68,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
   align="left"
   alt="PowerBI"
   title="PowerBI"
-  width="60px"
+  width="50px"
   style="padding-right: 9px;"
   src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
   />
