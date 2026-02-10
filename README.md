@@ -63,12 +63,13 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     src="https://img.icons8.com/color/48/numpy.png" alt="numpy"
 />
 <br>
+
 ### Tecnologias 
 <img
   align="left"
   alt="PowerBI"
   title="PowerBI"
-  width="50px"
+  width="40px"
   style="padding-right: 9px;"
   src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
 />
