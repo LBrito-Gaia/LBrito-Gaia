@@ -43,9 +43,35 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     title="SQL Server" 
     width="40px" 
     style="padding-right: 9px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+    src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"
 />
 
+<img 
+    align="left" 
+    alt="Html"
+    title="Html" 
+    width="40px" 
+    style="padding-right: 9px;" 
+    src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"
+/>
+
+<img 
+    align="left" 
+    alt="Js"
+    title="Js" 
+    width="40px" 
+    style="padding-right: 9px;" 
+    src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"
+/>
+
+<img 
+    align="left" 
+    alt="Css"
+    title="Css" 
+    width="40px" 
+    style="padding-right: 9px;" 
+    src="https://img.icons8.com/fluency/48/css3.png" alt="css3"
+/>
 <img
     align="left"
     alt="Pandas"
@@ -63,7 +89,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     src="https://img.icons8.com/color/48/numpy.png" alt="numpy"
 />
 <br>
-
+<br>
 ### Tecnologias 
 <img
   align="left"
