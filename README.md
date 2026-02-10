@@ -52,7 +52,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     title="Pandas"
     width="40px"
     style="padding-right: 9px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+    src="https://img.icons8.com/color/48/pandas.png" alt="pandas"
 />
 <img
     align="left"
