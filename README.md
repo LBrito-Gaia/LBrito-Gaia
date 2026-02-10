@@ -58,7 +58,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left"
     alt="NumPy"
     title="NumPy"
-    width="60px"
+    width="40px"
     style="padding-right: 9px;"
     src="https://img.icons8.com/color/48/numpy.png" alt="numpy"
 />
