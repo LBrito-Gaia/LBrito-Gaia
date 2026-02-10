@@ -32,7 +32,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="35px" 
     style="padding-right: 9px;" 
     src="https://img.icons8.com/fluency/48/python.png" alt="python"
 />
@@ -41,7 +41,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left" 
     alt="SQL Server"
     title="SQL Server" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 9px;" 
     src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"
 />
@@ -50,7 +50,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left" 
     alt="Html"
     title="Html" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 9px;" 
     src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"
 />
@@ -59,7 +59,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left" 
     alt="Js"
     title="Js" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 9px;" 
     src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"
 />
@@ -68,7 +68,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left" 
     alt="Css"
     title="Css" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 9px;" 
     src="https://img.icons8.com/fluency/48/css3.png" alt="css3"
 />
@@ -76,7 +76,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left"
     alt="Pandas"
     title="Pandas"
-    width="40px"
+    width="35px"
     style="padding-right: 9px;"
     src="https://img.icons8.com/color/48/pandas.png" alt="pandas"
 />
@@ -84,7 +84,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     align="left"
     alt="NumPy"
     title="NumPy"
-    width="40px"
+    width="35px"
     style="padding-right: 9px;"
     src="https://img.icons8.com/color/48/numpy.png" alt="numpy"
 />
@@ -95,7 +95,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
   align="left"
   alt="PowerBI"
   title="PowerBI"
-  width="40px"
+  width="35px"
   style="padding-right: 9px;"
   src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
 />
