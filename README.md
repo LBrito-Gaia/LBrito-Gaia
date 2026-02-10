@@ -14,7 +14,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
 📍 Localizado no Rio de Janeiro.
 <br>
 <br>
-Vamos conversar?
+
 <div style="display: flex; align-items: center; gap: 3px;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">
   <a href="https://www.linkedin.com/in/lbrito-gaia">lbrito-gaia</a> 
