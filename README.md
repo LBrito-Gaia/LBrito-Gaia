@@ -61,8 +61,8 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     width="60px"
     style="padding-right: 9px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
-    />
-    <br>
+/>
+<br>
 ### Tecnologias 
 <img
   align="left"
@@ -71,6 +71,6 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
   width="50px"
   style="padding-right: 9px;"
   src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
-  />
+/>
 <br/>
 <br/>
