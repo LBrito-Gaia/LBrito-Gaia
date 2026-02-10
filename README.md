@@ -62,6 +62,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     style="padding-right: 9px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
     />
+    <br>
 ### Tecnologias 
 <img
   align="left"
