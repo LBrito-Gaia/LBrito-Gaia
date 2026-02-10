@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Leonardo B. Gaia
 
-**`Analista de Suporte em Transição para Análise de Dados`**
+**Analista de Suporte em Transição para Análise de Dados**
 
 Olá, Me chamo Leonardo de Brito Gaia, tenho 36 anos! 👋
 
@@ -27,7 +27,7 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens
 <img 
     align="left" 
     alt="Python" 
@@ -62,6 +62,14 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
     style="padding-right: 9px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
     />
-         
+### Tecnologias 
+<img
+  align="left"
+  alt="NumPy"
+  title="NumPy"
+  width="60px"
+  style="padding-right: 9px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/power-bi/power-bi-original-wordmark.svg"
+  />
 <br/>
 <br/>
