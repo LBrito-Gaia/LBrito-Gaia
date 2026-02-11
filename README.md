@@ -2,7 +2,7 @@
 
 **Analista de Suporte em Transição para Análise de Dados**
 
-Olá, Me chamo Leonardo de Brito Gaia, tenho 36 anos! 👋
+Olá, Me chamo Leonardo de Brito Gaia
 
 Com 9 anos de experiência na área de suporte técnico e formação técnica em informática, desenvolvi um olhar crítico para a resolução de problemas e a melhoria de processos operacionais. Minha trajetória é marcada pela entrega de soluções que priorizam a satisfação do cliente e a eficiência das ferramentas.
 
