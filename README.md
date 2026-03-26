@@ -1,20 +1,27 @@
 # 👨🏾‍💻 Leonardo B. Gaia
 
-**Analista de Suporte em Transição para Análise de Dados**
+**`Analista de Dados | Desenvolvedor de Software | Automação (RPA)`**
 
-Olá, Me chamo Leonardo de Brito Gaia
+Sou um profissional com uma trajetória sólida de **9 anos na área de suporte técnico**, onde atuei como Especialista em sistemas ERP. Essa experiência me proporcionou uma visão analítica apurada para identificar gargalos operacionais e traduzi-los em soluções técnicas eficientes que priorizam a satisfação do cliente.
 
-Com 9 anos de experiência na área de suporte técnico e formação técnica em informática, desenvolvi um olhar crítico para a resolução de problemas e a melhoria de processos operacionais. Minha trajetória é marcada pela entrega de soluções que priorizam a satisfação do cliente e a eficiência das ferramentas.
+Atualmente, foco minha carreira na interseção entre **Análise de Dados** e **Desenvolvimento de Software**, unindo minha bagagem de negócio com o poder da tecnologia para criar soluções de ponta a ponta:
 
-Atualmente, estou aplicando minha bagagem de suporte para extrair insights valiosos através da Análise de Dados. Unindo minha experiência em entender as necessidades do negócio com ferramentas analíticas, foco em transformar dados brutos em decisões estratégicas.
+* **📊 Dados:** Transformando dados brutos em inteligência estratégica. Utilizo Python (Pandas/NumPy), SQL e Power BI para extrair, tratar e visualizar indicadores que geram insights valiosos e economia para o negócio.
 
-📊 Foco atual: SQL, Python (Pandas/NumPy), Power BI e Excel Avançado.
-<br>🛠️ Soft Skills: Trabalho em equipe, comunicação assertiva e resolução de problemas complexos.</br>
+* **⚙️ Desenvolvimento & Automação:** Criando ferramentas que otimizam o dia a dia. Com uma base em HTML, CSS e JavaScript, desenvolvo interfaces web personalizadas e dashboards interativos. Além disso, crio automações (RPA) para eliminar processos manuais e repetitivos.
 
-📍 Localizado no Rio de Janeiro.
+Meu objetivo é aplicar essa combinação única de experiência operacional e competências técnicas para resolver problemas complexos através do código e dos dados.
+
+
+🛠️ Soft Skills:<br>
+* 💼 Pensamento Crítico & Análise de Negócios<br>
+* 🤝 Trabalho em Equipe & Colaboração<br>
+* 📢 Comunicação Assertiva<br>
+* 🧩 Resolução de Problemas Complexos<br>
+
 <br>
 <br>
-
+Sinta-se à vontade para se conectar comigo para conversar sobre dados, desenvolvimento ou novas oportunidades!
 <div style="display: flex; align-items: center; gap: 3px;">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">
   <a href="https://www.linkedin.com/in/lbrito-gaia">lbrito-gaia</a> 
@@ -24,6 +31,8 @@ Atualmente, estou aplicando minha bagagem de suporte para extrair insights valio
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20">
   <a href="mailto:lbrito.gaia@gmail.com">lbrito.gaia@gmail.com</a>
 </div>
+<br>
+📍 Localizado no Rio de Janeiro.
 
 ---
 
